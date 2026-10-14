@@ -1,0 +1,4 @@
+id,role,type,description,size/ratio,style line ref,source
+city,world,glyphs,"Procedural 3D architecture streets signs traffic and people drawn only as text",responsive,terminal-city,procedural
+glyph-atlas,renderer,glyphs,"Embedded system monospace character atlas generated in memory",1024x512,terminal-city,procedural
+interface,HUD,HTML CSS,"Ivory and mint terminal instruments with orange accents",responsive,terminal-city,procedural
